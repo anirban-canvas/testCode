@@ -1,0 +1,14 @@
+.items{
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    background: aqua;
+    border: 1px solid;
+}
+.list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 4px;
+    margin: 14px;
+}
